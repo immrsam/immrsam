@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sam Bradbury</h1>
 <h3 align="center">A passionate frontend developer from Melbourne, Australia</h3>
 
-- 🔭 I’m currently working on [World Weather and Time App](https://github.com/immrsam/world-weather-time)
+- 🔭 I’m currently working on [World Weather and Time App](https://github.com/immrsam/world-weather-time) and also a [Github clone layout example](https://github.com/immrsam/github-clone)
 
 - 🌱 I’m currently learning **frontend frameworks**
 
