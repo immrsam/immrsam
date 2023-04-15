@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [World Weather and Time App](https://github.com/immrsam/world-weather-time) and also a [Github clone layout example](https://github.com/immrsam/github-clone)
 
-- 🌱 I’m currently learning **frontend frameworks** **Software Engineering Project Management** & **Java**
+- 🌱 I’m currently learning **frontend frameworks**, **Software Engineering Project Management** & **Java**
 
 - 👨‍💻 All of my projects are available at [https://github.com/immrsam](https://github.com/immrsam)
 
